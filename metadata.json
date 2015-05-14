@@ -1,0 +1,15 @@
+{
+  "author": "Chris Belyea <cbelyea@singlestoneconsulting.com>",
+  "dependencies": [
+  	{"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "license": "GPL 2.0",
+  "name": "chris-apache",
+  "operatingsystem_support": [],
+  "project_page": "",
+  "requirements": [],
+  "source": "localhost",
+  "summary": "Testing Unit Testing",
+  "tags": [],
+  "version": "0.1.0"
+}
