@@ -1,0 +1,14 @@
+before_script:
+  - bundle install
+
+validate:
+  script:
+    - bundle exec rake validate
+
+lint:
+  script:
+    - bundle exec rake lint
+
+spec:
+  script:
+    - bundle exec rake spec
